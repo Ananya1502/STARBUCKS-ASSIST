@@ -1,0 +1,80 @@
+[
+  {
+    "id": "953b188b-e51f-4122-ae6a-33aee0005db4",
+    "data": [
+      {
+        "text": "hmm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7229b10e-5f68-440d-a13d-52d0f7f0a158",
+    "data": [
+      {
+        "text": "great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3f56301-277d-4021-8b98-56046c30a518",
+    "data": [
+      {
+        "text": "amazing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2be672f-62a0-4892-862c-e8aa1dff4569",
+    "data": [
+      {
+        "text": "super",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69db6e92-c36e-477e-b7d3-8576d9d7e4a0",
+    "data": [
+      {
+        "text": "wow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99927ffc-a0e1-430e-9c36-faa87e70b226",
+    "data": [
+      {
+        "text": "ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

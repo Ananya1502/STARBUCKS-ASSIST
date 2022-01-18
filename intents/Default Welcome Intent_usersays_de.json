@@ -1,0 +1,106 @@
+[
+  {
+    "id": "c2a72b30-3ca9-47cd-890e-f3eb2d8e6f04",
+    "data": [
+      {
+        "text": "ja hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "47c08859-9994-4751-8f4e-36bdb9711455",
+    "data": [
+      {
+        "text": "ich grüße dich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1e36e4f6-c271-4c0c-93eb-c27bf3c168e7",
+    "data": [
+      {
+        "text": "hallöchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "60d99a55-34ec-4f94-b347-e4f0031e5411",
+    "data": [
+      {
+        "text": "hallo Schatzi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "db705a78-5478-479d-a84e-b5ab55c6045e",
+    "data": [
+      {
+        "text": "hallo Schatz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5bdb5e8e-1796-4819-9cdd-8605423fb060",
+    "data": [
+      {
+        "text": "hallo hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "353d0ffc-e6b8-4714-953c-089ebded9b2c",
+    "data": [
+      {
+        "text": "hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ec25b124-a865-43fe-8a4b-1459e8ff6564",
+    "data": [
+      {
+        "text": "grüß dich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

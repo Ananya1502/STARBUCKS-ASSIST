@@ -1,0 +1,35 @@
+{
+  "id": "26e54078-1057-4569-a330-a32124ce7a59",
+  "name": "cold coffee",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is our cold coffee Menu!\nIrish cream cold brew, salted caramel cream cold brew , starbucks reserve, nitro cold brew!\nwould you like to order any of these?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

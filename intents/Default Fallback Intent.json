@@ -1,0 +1,166 @@
+{
+  "id": "f7f3f6a9-5001-4385-98c9-1088d46887c0",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I didn\u0027t get that. Can you say it again?",
+            "I missed what you said. What was that?",
+            "Sorry, could you say that again?",
+            "Sorry, can you say that again?",
+            "Can you say that again?",
+            "Sorry, I didn\u0027t get that. Can you rephrase?",
+            "Sorry, what was that?",
+            "One more time?",
+            "What was that?",
+            "Say that one more time?",
+            "I didn\u0027t get that. Can you repeat?",
+            "I missed that, say that again?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "speech": [
+            "J\u0027ai du mal à comprendre cette question.",
+            "J\u0027ai mal compris votre demande.",
+            "Je n\u0027ai pas saisi ce que vous avez dit.",
+            "Je crois que je ne vous suis pas.",
+            "Je ne comprends pas de quoi vous me parlez."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ta",
+          "speech": [
+            "எனக்குப் புரியவில்லை அதைத் திரும்பச் சொல்ல முடியுமா?",
+            "நீங்க சொன்னது புரியவில்லை. அதைத் திரும்பவும் சொல்ல முடியுமா?",
+            "அதை மீண்டும் சொல்ல முடியுமா?",
+            "சரியாகப் புரியவில்லை, மீண்டும் அதைச் சொல்ல முடியுமா?",
+            "திரும்பவும் சொல்ல முடியுமா?",
+            "எனக்கு அது சரியாகப் புரியவில்லை.",
+            "அதைத் திரும்பவும் சொல்லுங்க",
+            "மீண்டும் ஒரு முறை சொல்ல முடியுமா?",
+            "நீங்க சொன்னது புரியவில்லை, திரும்பச் சொல்ல முடியுமா?",
+            "திரும்பவும் அதைச் சொல்ல முடியுமா?",
+            "சரியாகப் புரியவில்லை.",
+            "அது புரியவில்லை."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ta-in",
+          "speech": [
+            "எனக்குப் புரியவில்லை அதைத் திரும்பச் சொல்ல முடியுமா?",
+            "நீங்க சொன்னது புரியவில்லை. அதைத் திரும்பவும் சொல்ல முடியுமா?",
+            "அதை மீண்டும் சொல்ல முடியுமா?",
+            "சரியாகப் புரியவில்லை, மீண்டும் அதைச் சொல்ல முடியுமா?",
+            "திரும்பவும் சொல்ல முடியுமா?",
+            "எனக்கு அது சரியாகப் புரியவில்லை.",
+            "அதைத் திரும்பவும் சொல்லுங்க",
+            "மீண்டும் ஒரு முறை சொல்ல முடியுமா?",
+            "நீங்க சொன்னது புரியவில்லை, திரும்பச் சொல்ல முடியுமா?",
+            "திரும்பவும் அதைச் சொல்ல முடியுமா?",
+            "சரியாகப் புரியவில்லை.",
+            "அது புரியவில்லை."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Ich verstehe deine Frage leider nicht.",
+            "Entschuldige bitte, ich habe deine Frage nicht verstanden.",
+            "Ich bin nicht so sicher, ob ich dich richtig verstanden habe.",
+            "Leider kann ich nicht verstehen, was du von mir möchtest.",
+            "Kannst du das noch mal anders formulieren?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "마지막에 말씀을 잘 못 이해 한것 같아요.",
+            "방금 하신 말씀을 잘 못 알아들었어요.",
+            "죄송해요. 다시 들려 주실래요?",
+            "제가 제대로 이해하고 있는지 잘 모르겠어요.",
+            "제가 제대로 이해하지 못한것 같아요. 죄송해요.",
+            "조금 헷갈리는데요."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "da",
+          "speech": [
+            "Det forstod jeg ikke. Prøv at sige det igen.",
+            "Det fik jeg ikke fat i. Prøv at sige det igen.",
+            "Det forstod jeg ikke. Prøv at gentage det.",
+            "Det hørte jeg ikke. Prøv at sige det igen.",
+            "Prøv at sige det igen.",
+            "Det forstod jeg ikke.",
+            "Det hørte jeg ikke. Hvad sagde du?",
+            "Vil du gentage det?",
+            "Hvad sagde du?",
+            "Prøv at sige det igen.",
+            "Det forstod jeg ikke.",
+            "Det fik jeg ikke fat i."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Ups, no he entendido a que te refieres.",
+            "¿Podrías repetirlo, por favor?",
+            "¿Disculpa?",
+            "¿Decías?",
+            "¿Cómo?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

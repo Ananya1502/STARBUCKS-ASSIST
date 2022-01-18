@@ -1,0 +1,35 @@
+{
+  "id": "b581a73f-f965-4409-9c57-e714719ca5d2",
+  "name": "Iced Tea",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is our Iced tea menu:\nTeavana® Sparkling Unsweetened Peach Nectarine Green Tea, Teavana® Mango Black Tea, Iced Chai Tea Latte, Iced Passion Tango™ Tea. Would you like to Order any of these?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

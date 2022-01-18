@@ -1,0 +1,52 @@
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "StarBucks_Assist+",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "3b22559c-317d-4dd1-b700-7afc7ddef51f"
+    ],
+    "voiceType": "VOICE_TYPE_UNSPECIFIED",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "PROTOCOL_VERSION_UNSPECIFIED",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Almaty",
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [
+    "da",
+    "de",
+    "es",
+    "fr",
+    "ko",
+    "ta",
+    "ta-in"
+  ],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "b29685e18eee45bf9b85b8f3decaacf4",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [
+    "projects/starbucks-assist--fpaf/knowledgeBases/MTIwMjAxNTY4ODM0NzUxMDM3NDQ"
+  ],
+  "knowledgeServiceConfidenceAdjustment": 1.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}

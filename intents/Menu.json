@@ -1,0 +1,35 @@
+{
+  "id": "056858e7-101d-4ba8-a004-a8b9f536725f",
+  "name": "Menu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We Have different categories in our Menu. Take a look at this. \nHot Coffees, Hot Chai, Frappuccino , cold coffees and Iced Teas.\nWhat would you like to have today?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

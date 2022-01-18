@@ -1,0 +1,80 @@
+[
+  {
+    "id": "f3ca69ed-3f66-4e2a-af9b-36a0c6fa391c",
+    "data": [
+      {
+        "text": "frappuccino",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b20bd361-0e19-40d1-81ff-57492be9346b",
+    "data": [
+      {
+        "text": "i would like to look at some frapuccino",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1de0ae72-9cb7-4016-9755-b024bfa6c8f1",
+    "data": [
+      {
+        "text": "Frappuccinos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c485111f-11a5-4114-9fc2-f9fe1ea62791",
+    "data": [
+      {
+        "text": "Can i have some frapuccino",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25968e11-251e-46e6-91ec-d1fa5af47291",
+    "data": [
+      {
+        "text": "i would like to look at some frapuccinos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6deab2d1-45ce-457a-9d02-dec0b5f3e3be",
+    "data": [
+      {
+        "text": "Frapuccino",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

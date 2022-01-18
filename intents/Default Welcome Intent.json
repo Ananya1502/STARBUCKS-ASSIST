@@ -1,0 +1,129 @@
+{
+  "id": "98274c01-a036-4678-8673-4fcc17fbe26d",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi! Welcome to Starbucks India! Please enter your name!",
+            "Hello! Welcome to Starbucks India! Please enter your name!",
+            "Good day! Welcome to Starbucks India! Please enter your name!",
+            "Greetings! Welcome to Starbucks India! Please enter your name!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "speech": [
+            "Salut !",
+            "Bonjour !",
+            "Salutations !",
+            "Bienvenue !"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ta",
+          "speech": [
+            "வணக்கம்!",
+            "வணக்கம்!",
+            "இன்றைய தினம் இனிதாகட்டும்!",
+            "வாழ்த்துகள்!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ta-in",
+          "speech": [
+            "வணக்கம்!",
+            "வணக்கம்!",
+            "இன்றைய தினம் இனிதாகட்டும்!",
+            "வாழ்த்துகள்!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Hallo!",
+            "Guten Tag!",
+            "Ich grüße dich!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "안녕!",
+            "안녕하세요!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "da",
+          "speech": [
+            "Hej!",
+            "Dav!",
+            "Goddag!",
+            "Hejsa!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Hola!",
+            "¡Hey!",
+            "¡Buenos días!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

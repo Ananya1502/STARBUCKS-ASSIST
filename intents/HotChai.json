@@ -1,0 +1,35 @@
+{
+  "id": "ef7b4b33-810e-4755-8a8a-3834dd23efe2",
+  "name": "HotChai",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Heres our Hot Chai menu:\nChai Tea , Chai Tea Latte, Earl grey tea, London fog tea latte, Royal English breakfast tea and Matcha tea Latte. Would you like to order any of these?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

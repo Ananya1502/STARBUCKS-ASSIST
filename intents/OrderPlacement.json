@@ -1,0 +1,54 @@
+{
+  "id": "3b22559c-317d-4dd1-b700-7afc7ddef51f",
+  "name": "OrderPlacement",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2c6efe7e-1537-449d-af3e-2bb1046ad485",
+          "name": "beverage",
+          "required": false,
+          "dataType": "@beverage",
+          "value": "$beverage.original",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Order Placed for $beverage! Your total ₹150 will be deducted from your starbucks account. Happy Starbucks Experience!",
+            "Order Placed for $beverage! Your total ₹100 will be deducted from your starbucks account. Happy Starbucks Experience!",
+            "Order Placed for $beverage! Your total ₹159.99 will be deducted from your starbucks account. Happy Starbucks Experience!",
+            "Order Placed for $beverage! Your total ₹250 will be deducted from your starbucks account. Happy Starbucks Experience!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

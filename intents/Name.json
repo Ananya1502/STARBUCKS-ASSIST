@@ -1,0 +1,53 @@
+{
+  "id": "0adabe80-1843-48a3-93b6-e6a1da45dbaf",
+  "name": "Name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f9bdd9e6-0236-452a-841b-d5acba4b2a4a",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person.original",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello $person! Welcome to Starbucks India. I am Ella here to assist you today! How may I help you?",
+            "Nice to meet you $person! This is Ella here to assist you. How can I assist you?",
+            "Welcome to Starbucks India $person. Myself, Ella here to assist you. How can I help you?",
+            "Greetings! welcome to Starbucks India, $person! I am Ella here to assist you. How may I Help you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

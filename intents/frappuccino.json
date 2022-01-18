@@ -1,0 +1,35 @@
+{
+  "id": "8dbb20d5-1e43-45fa-bf99-e271d11f4248",
+  "name": "frappuccino",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is our frappuccino menu:\npistachio coffee frappuccino,  sugarcookie almondmilk frappuccino, Toasted white chocolate frappuccino, peppermint white chocolate mocha frappuccino. Would you like to order any of these?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

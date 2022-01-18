@@ -1,0 +1,84 @@
+[
+  {
+    "id": "05ceacd6-d2c8-4fec-bcb4-3bfa2385d615",
+    "data": [
+      {
+        "text": "can i take a look at the hot chai menu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "195fb407-7380-434c-83c4-31ebb202047a",
+    "data": [
+      {
+        "text": "can i take a look at the hotchai menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd5f6a37-de75-403c-b90d-1572169ab05c",
+    "data": [
+      {
+        "text": "can i have hot chai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87183dcc-4ca4-4843-9eef-57aa78571528",
+    "data": [
+      {
+        "text": "hot chai pls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb770fcf-6589-4ece-ad89-cfbc0d41b063",
+    "data": [
+      {
+        "text": "I would like to look at ",
+        "userDefined": false
+      },
+      {
+        "text": "hotchai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa3b3172-77c8-47a4-82ce-dc1ee0556d83",
+    "data": [
+      {
+        "text": "Hot chai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "06af141d-0ac3-4160-9c84-a137ba7e2dec",
+    "data": [
+      {
+        "text": "Iced Passion Tango Tea",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41b9fd30-1a9c-431c-bc4c-116edd3c8b6b",
+    "data": [
+      {
+        "text": "Iced Chai Tea Latte",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb4aadb5-51b8-43ef-8b65-97f80fb0fd3b",
+    "data": [
+      {
+        "text": "Teavana Mango Black Tea",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd3c1f3d-47a5-4ab1-aa77-90645191b607",
+    "data": [
+      {
+        "text": "Teavana Sparkling Unsweetened Peach Nectarine Green Tea",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "951a0185-7dab-4ddb-961e-0b6597331c24",
+    "data": [
+      {
+        "text": "Matcha tea Latte",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f248b401-c49a-4422-a71a-afb8bfb88e7a",
+    "data": [
+      {
+        "text": "Royal English breakfast tea",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "907c2f9a-eb5f-46cb-9ec1-8d77b148528e",
+    "data": [
+      {
+        "text": "London fog tea latte",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1616e13-bab5-4201-9ac2-bc44e39798f2",
+    "data": [
+      {
+        "text": "Earl grey tea",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b5735d8-eb44-4d5e-8cd0-aea066382fa4",
+    "data": [
+      {
+        "text": "Chai Tea Latte",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e06137f-bd10-4711-b5dd-677cec87aa36",
+    "data": [
+      {
+        "text": "Chai Tea",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bde5ae0-68d1-4cc7-94ff-fc91655c53b2",
+    "data": [
+      {
+        "text": "nitro cold brew",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "befbed08-0ffd-445a-989d-14c6eb64baf2",
+    "data": [
+      {
+        "text": "starbucks reserve",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76e7c831-5ec3-4db7-a748-f960630c88e8",
+    "data": [
+      {
+        "text": "salted caramel cream cold brew",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87dde51a-b159-4f10-95de-b04fe0e94670",
+    "data": [
+      {
+        "text": "Irish cream cold brew",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c13f64a-f558-472d-b354-45ae63397227",
+    "data": [
+      {
+        "text": "peppermint white chocolate mocha frappuccino",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b32beed-9e9f-4925-81cd-048d10eb2a46",
+    "data": [
+      {
+        "text": "Toasted white chocolate frappuccino",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d928930-7d38-4c4a-8c95-2b566f4867a7",
+    "data": [
+      {
+        "text": "sugarcookie almondmilk frappuccino",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18bd4e76-2466-4d71-890b-62f4f37fe467",
+    "data": [
+      {
+        "text": "pistachio coffee frappuccino",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f014f91-00ee-4c48-9c5b-37148e5e8699",
+    "data": [
+      {
+        "text": "Espresso Machiato",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6effe853-f92c-4f7b-aa65-7d18c64d9c4d",
+    "data": [
+      {
+        "text": "Latte",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0dbe86a-1416-4564-96df-bcf9f5389c76",
+    "data": [
+      {
+        "text": "flatwhite",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c108210b-8ee9-4d35-8a1a-eaef5799f5a8",
+    "data": [
+      {
+        "text": "Espresso",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbc9f8ed-829f-4d82-aa4c-e008d592b994",
+    "data": [
+      {
+        "text": "Decaf",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e20d2cd8-92a7-42bf-b3a7-34ae2d713cff",
+    "data": [
+      {
+        "text": "Starbucks Dark roast",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8456fe60-ed63-430c-830f-d849b5182a87",
+    "data": [
+      {
+        "text": "Veranda Blend",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3662fb2a-9861-4d7d-b305-34cb6d369296",
+    "data": [
+      {
+        "text": "Americano",
+        "meta": "@beverage",
+        "alias": "beverage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

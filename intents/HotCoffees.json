@@ -1,0 +1,40 @@
+{
+  "id": "14c4ed2b-b543-4521-bb2b-3067187d4d25",
+  "name": "HotCoffees",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "HotCoffees-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is our Hot coffee Menu.\nAmericano, Veranda Blend, Starbucks Dark roast, Decaf , Espresso, flatwhite, Latte and Espresso Machiato!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

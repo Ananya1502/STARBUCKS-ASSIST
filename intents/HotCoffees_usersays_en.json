@@ -1,0 +1,28 @@
+[
+  {
+    "id": "00fdeb33-41f7-436f-ad05-008fa8d92f45",
+    "data": [
+      {
+        "text": "i want to drink hot coffees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b69f8624-c692-4fb5-a4dc-7435ed316a5c",
+    "data": [
+      {
+        "text": "Hot coffees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
